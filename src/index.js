@@ -167,7 +167,7 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        <h1>Real-Time Object Detection: Kangaroo</h1>
+        <h1>Esen ML Team Real-Time Object Detection Demo: Grape</h1>
         <h3>MobileNetV2</h3>
         <video
           style={{ height: "600px", width: "500px" }}

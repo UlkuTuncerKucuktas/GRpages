@@ -1,5 +1,10 @@
-  .size {
-    position: fixed;
-    top: 0;
-    left: 0;
-  }
+.size {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+div {
+  background-color: rgb(196, 245, 124);
+  font-family: sans-serif;
+}
